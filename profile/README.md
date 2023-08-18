@@ -15,6 +15,8 @@ The application also allows for the adding of developers and their skills to the
 
 Our database is hosted on Supabase, which is used as a PostgreSQL database. Our backend is built in ASP.Net Core and connects to the database via Entity Framework as an ORM. Our frontend is built in react.
 
+We are working agile, with 1 week sprints, organised using clickup.com.
+
 ## Who are we?
 We are Lups-Tech. A group of full-stack developers who studied together at the School of Applied Technology in Stockholm (aka </SALT>).
 
