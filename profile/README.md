@@ -18,7 +18,7 @@ Our database is hosted on Supabase, which is used as a PostgreSQL database. Our 
 We are working agile, with 1 week sprints, organised using clickup.com.
 
 ## Who are we?
-We are Lups-Tech. A group of full-stack developers who studied together at the School of Applied Technology in Stockholm (aka "</SALT>").
+We are Lups-Tech. A group of full-stack developers who studied together at the School of Applied Technology in Stockholm.
 
 The team is comprised of:
 - [Luca Martinelli](https://github.com/Luega)
