@@ -25,6 +25,8 @@ The team is comprised of:
 - [Feng Yang](https://github.com/Finns841594)
 - [Panisara Bunawan Dachin](https://github.com/panisara-bd)
 - [Stephen Moore](https://github.com/SMooreSwe)
+- [Chris O'Brien](https://www.linkedin.com/in/chris-o-brien-314791212/)
+- [Sonja Kitanoska](https://www.linkedin.com/in/sonja-kitanoska-986ba8a8/)
 
 
 ## Future Plans
