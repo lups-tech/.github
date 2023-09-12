@@ -4,6 +4,10 @@ Our goal is to create a solution to a problem hitting the tech industry right no
 
 Our MVP is already deployed at: [https://job-matches.vercel.app/](https://job-matches.vercel.app/) - feel free to check it out!
 
+<div align=center>
+ <img src="jobtech.gif"/>
+</div>
+
 ## What is the project?
 We are building a full-stack application designed to match our database of developers with available jobs in Stockohlm. Our job data is provided by the jobtechdev API.
 
@@ -13,7 +17,7 @@ The application also allows for the adding of developers and their skills to the
 
 ## Tech Stack
 
-Our database is hosted on Supabase, which is used as a PostgreSQL database. Our backend is built in ASP.Net Core and connects to the database via Entity Framework as an ORM. Our frontend is built in react.
+Our database is hosted on Supabase, which is used as a PostgreSQL database. Our backend is built in ASP.Net Core and connects to the database via Entity Framework as an ORM. Our frontend is built in react. Auth0 is used for authentication.
 
 We are working agile, with 1 week sprints, organised using clickup.com.
 
@@ -33,6 +37,6 @@ The team is comprised of:
 
 Once we are happy with the MVP we have plans on refining the product and continuing to add value. Our current goals are to add:
 
-- Authorization and Authentication - to allow for multiple companies to use the product, with their own private lists of developers.
+- Authorization and Authentication - to allow for multiple companies to use the product, with their own private lists of developers (user authorization and authentication is now in place with third party log-in via google, as well as email and password).
 - The ability to save jobs to your account, to allow for ease of access to those details during hiring processes, or should a developer become available.
 - Easier editing of existing developers.
