@@ -40,3 +40,8 @@ Once we are happy with the MVP we have plans on refining the product and continu
 - Authorization and Authentication - to allow for multiple companies to use the product, with their own private lists of developers *(user authorization and authentication is now in place with third party log-in via google, as well as email and password)*.
 - ~~The ability to save jobs to your account, to allow for ease of access to those details during hiring processes, or should a developer become available.~~(Now added)
 - Easier editing of existing developers.
+
+## Team Logo
+
+Lups-Tech Logo produced by logo.com.
+
