@@ -19,27 +19,32 @@ The application also allows for the adding of developers and their skills to the
 
 Our database is hosted on Supabase, which is used as a PostgreSQL database. Our backend is built in ASP.Net Core and connects to the database via Entity Framework as an ORM. Our frontend is built in react. Auth0 is used for authentication.
 
-We are working agile, with 1 week sprints, organised using clickup.com.
+We are working agile, with 1 week sprints, organised using a github project board [here](https://github.com/orgs/lups-tech/projects/2/views/1).
 
 ## Who are we?
 We are Lups-Tech. A group of full-stack developers who studied together at the School of Applied Technology in Stockholm.
 
-The team is comprised of:
-- [Luca Martinelli](https://github.com/Luega)
-- [Feng Yang](https://github.com/Finns841594)
-- [Panisara Bunawan Dachin](https://github.com/panisara-bd)
-- [Stephen Moore](https://github.com/SMooreSwe)
+The current team is comprised of:
 - [Chris O'Brien](https://www.linkedin.com/in/chris-o-brien-314791212/)
 - [Sonja Kitanoska](https://www.linkedin.com/in/sonja-kitanoska-986ba8a8/)
+- [Feng Yang](https://github.com/Finns841594)
+- [Stephen Moore](https://github.com/SMooreSwe)
 
+
+
+Other contributors are:
+- [Luca Martinelli](https://github.com/Luega)
+- [Panisara Bunawan Dachin](https://github.com/panisara-bd)
 
 ## Future Plans
 
 Once we are happy with the MVP we have plans on refining the product and continuing to add value. Our current goals are to add:
 
-- Authorization and Authentication - to allow for multiple companies to use the product, with their own private lists of developers *(user authorization and authentication is now in place with third party log-in via google, as well as email and password)*.
+- ~~Authorization and Authentication - to allow for multiple companies to use the product, with their own private lists of developers~~(Now added)
 - ~~The ability to save jobs to your account, to allow for ease of access to those details during hiring processes, or should a developer become available.~~(Now added)
 - Easier editing of existing developers.
+- User Dashboard.
+- Data vizualization.
 
 ## Team Logo
 
