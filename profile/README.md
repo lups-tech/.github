@@ -44,7 +44,7 @@ Once we are happy with the MVP we have plans on refining the product and continu
 - ~~The ability to save jobs to your account, to allow for ease of access to those details during hiring processes, or should a developer become available.~~(Now added)
 - Easier editing of existing developers.
 - User Dashboard.
-- Data vizualization.
+- ~~Data vizualization.~~
 
 ## Team Logo
 
