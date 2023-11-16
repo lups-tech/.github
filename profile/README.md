@@ -45,7 +45,7 @@ Once we are happy with the MVP we have plans on refining the product and continu
 - ~~Authorization and Authentication - to allow for multiple companies to use the product, with their own private lists of developers~~(Now added)
 - ~~The ability to save jobs to your account, to allow for ease of access to those details during hiring processes, or should a developer become available.~~(Now added)
 - Easier editing of existing developers.
-- User Dashboard.
+- ~~User Dashboard.~~
 - ~~Data vizualization.~~
 
 ## Team Logo
