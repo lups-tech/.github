@@ -26,15 +26,17 @@ We are Lups-Tech. A group of full-stack developers who studied together at the S
 
 The current team is comprised of:
 - [Chris O'Brien](https://www.linkedin.com/in/chris-o-brien-314791212/)
-- [Sonja Kitanoska](https://www.linkedin.com/in/sonja-kitanoska-986ba8a8/)
+
 - [Feng Yang](https://github.com/Finns841594)
 - [Stephen Moore](https://github.com/SMooreSwe)
+- [Anastasia Nilsson](https://www.linkedin.com/in/anastasia-nilsson/)
 
 
 
 Other contributors are:
 - [Luca Martinelli](https://github.com/Luega)
 - [Panisara Bunawan Dachin](https://github.com/panisara-bd)
+- [Sonja Kitanoska](https://www.linkedin.com/in/sonja-kitanoska-986ba8a8/)
 
 ## Future Plans
 
