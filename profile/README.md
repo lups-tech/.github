@@ -25,7 +25,7 @@ We are working agile, with 1 week sprints, organised using a github project boar
 We are Lups-Tech. A group of full-stack developers who studied together at the School of Applied Technology in Stockholm.
 
 The current team is comprised of:
-- [Chris O'Brien](https://www.linkedin.com/in/chris-o-brien-314791212/)
+
 
 - [Feng Yang](https://github.com/Finns841594)
 - [Stephen Moore](https://github.com/SMooreSwe)
@@ -37,6 +37,7 @@ Other contributors are:
 - [Luca Martinelli](https://github.com/Luega)
 - [Panisara Bunawan Dachin](https://github.com/panisara-bd)
 - [Sonja Kitanoska](https://www.linkedin.com/in/sonja-kitanoska-986ba8a8/)
+- [Chris O'Brien](https://www.linkedin.com/in/chris-o-brien-314791212/)
 
 ## Future Plans
 
